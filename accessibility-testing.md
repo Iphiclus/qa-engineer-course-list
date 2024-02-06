@@ -1,7 +1,7 @@
 # Accessibility Testing
 
 - [Learn Accessibility - Full a11y Tutorial](https://youtu.be/e2nkq3h1P68?si=p9ATZE2yYfNh9z0o)
-- [Screen Reader Basics: VoiceOver -- A11ycasts #07](https://www.google.com/url?q=https%3A%2F%2Fyoutu.be%2F5R-6WvAihms&sa=D)
+- [Screen Reader Basics: VoiceOver -- A11ycasts #07](https://www.youtube.com/watch?v=5R-6WvAihms)
 - [VoiceOver Keyboard Shortcuts on a Mac](https://dequeuniversity.com/screenreaders/voiceover-keyboard-shortcuts)
 - [Screen Reader Basics: NVDA -- A11ycasts #09](https://youtu.be/Jao3s_CwdRU?feature=shared)
 - [W3Cx: Introduction to Web Accessibility](https://www.edx.org/learn/web-accessibility/the-world-wide-web-consortium-w3c-introduction-to-web-accessibility)
