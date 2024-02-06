@@ -1,6 +1,6 @@
 # Accessibility Testing
 
-- [Learn Accessibility - Full a11y Tutorial](https://youtu.be/e2nkq3h1P68?si=p9ATZE2yYfNh9z0o)
+- [Learn Accessibility - Full a11y Tutorial](https://youtu.be/e2nkq3h1P68?si=p9ATZE2yYfNh9z0o){:target="_blank"}
 - [Screen Reader Basics: VoiceOver -- A11ycasts #07](https://www.youtube.com/watch?v=5R-6WvAihms)
 - [VoiceOver Keyboard Shortcuts on a Mac](https://dequeuniversity.com/screenreaders/voiceover-keyboard-shortcuts)
 - [Screen Reader Basics: NVDA -- A11ycasts #09](https://youtu.be/Jao3s_CwdRU?feature=shared)
